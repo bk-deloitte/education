@@ -28,8 +28,7 @@
         "Status": "Open",
         "Item": "Processor",
         "Quantity": "10",
-        "Cost Per Unit": "1000",
-        
+        "Cost Per Unit": "1000"        
       },
        {
             "level": "Design",
@@ -37,8 +36,7 @@
             "Status": "Completed",
             "Item": "Screen",
             "Quantity": "15",
-            "Cost Per Unit": "20000",
-            
+            "Cost Per Unit": "20000"            
       },
       {
                 "level": "Design",
@@ -46,8 +44,7 @@
                 "Status": "Issued",
                 "Item": "Chips",
                 "Quantity": "20",
-                "Cost Per Unit": "15000",
-                
-      },
+                "Cost Per Unit": "15000"                
+      }
   ]
 }
