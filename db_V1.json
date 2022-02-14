@@ -1,0 +1,31 @@
+{
+  "PurchaseOrders": [
+    {
+      "level": "Design",
+      "Supplier" : "NVIDIA",
+      "Status": "Open",
+      "Item": "Processor",
+      "Quantity": "10",
+      "Cost Per Unit": "1000",
+      
+    },
+     {
+          "level": "Design",
+          "Supplier" : "AMD",
+          "Status": "Completed",
+          "Item": "Screen",
+          "Quantity": "15",
+          "Cost Per Unit": "20000",
+          
+    },
+    {
+              "level": "Design",
+              "Supplier" : "Intel",
+              "Status": "Issued",
+              "Item": "Chips",
+              "Quantity": "20",
+              "Cost Per Unit": "15000",
+              
+    },
+  ]
+  }
